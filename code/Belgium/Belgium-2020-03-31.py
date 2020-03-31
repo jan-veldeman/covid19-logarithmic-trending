@@ -23,8 +23,8 @@ hosp_admitted =   [ 98, 164, 253, 372, 527, 789, 1077, 1387, 1720, 1993, 2269, 2
 day_of_march_ICU  = day_of_march
 ICU =             [ 24,  33,  53,  79, 100, 130,  164,  238,  290,  322,  381,  474,  605,  690,  789,  867,  927, 1021]
 # This included 94 retro-active deaths over period before 30 March
-# FIXME; redisitribute given https://twitter.com/brechtdv/status/1244920276070080513
-deceased =        [  4,   4,   5,  10,  14,  21,   37,   67,   75,   88,  122,  178,  220,  289,  353,  431,  513,  705] 
+# and redisitributed as shown in https://twitter.com/brechtdv/status/1244920276070080513
+deceased =         [ 4,   6,   7,  12,  18,  27,   46,   81,   95,  116,  159,  222,  275,  354,  427,  525,  673,  705]
 
 current_day = day_of_march[-1]
 
